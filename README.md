@@ -13,4 +13,4 @@ The purpose of this analysis is to help predict successful investments for a com
   * I tried adding a hidden layer, increasing epochs, adding neurons to the hidden layers, and changing activation functions. 
 
 ## 3. Summary
-Overall, I reached an accuracy of 73% whoch 
+Overall, I reached an accuracy of 73% which is not great for a neural network model, so further optimization would be needed for the model to be more accurate. There was also a large loss metric of 55%. I would recommend a random forest ensemble learning model. It is more interpretable and has a higher accuracy. It also handles outliers and nonlinear data very well. 
